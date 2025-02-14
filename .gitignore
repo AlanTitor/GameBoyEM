@@ -1,3 +1,7 @@
 build/
 
 *.exe
+*.log
+*.gch
+
+.vscode/
